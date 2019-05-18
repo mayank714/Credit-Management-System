@@ -1,0 +1,54 @@
+*{
+margin: 0;
+padding: 0;
+font-family:century gothic;
+}
+header{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../1.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+
+
+}
+.logo img{
+float:left;
+width:150px;
+height:auto;
+}
+
+.loginbox{
+width:320px;
+height:420px;
+background:#000;
+color:#fff;
+top:50%;
+position:absolute;
+transform:translate(-50%,-50%);
+box-sizing:border;.button{
+position:absolute;
+top:72%;
+left:50%;
+transform:translate(-50%,-50%);	
+
+
+
+}
+
+}
+.avatar{
+width:100px;
+height:100px;
+border-radius:50%;
+position:absolute;
+top:90px;
+left:calc(50%)
+
+
+
+
+
+}
+.tt{
+top:90px;
+}
